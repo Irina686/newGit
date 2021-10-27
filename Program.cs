@@ -11,6 +11,7 @@ namespace Proj1
         static void Main(string[] args)
         {
             Console.WrireLine("Внесла изменения");
+            Console.WrireLine("7878787878787878");
         }
     }
 }
